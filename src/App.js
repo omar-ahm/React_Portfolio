@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './components/HomePage';
 import Header from './components/Header';
 import Contact from './components/ContactPage';
@@ -8,25 +9,15 @@ import ProjectPage from './components/ProjectPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="container">
+    
       <Header />
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        
         <HomePage />
         <ProjectPage />
         <Project />
         <Contact />
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
     </div>
   );
 }
