@@ -25,22 +25,22 @@ a {
 ul {
   list-style-type: none;
 }
-.btn {
+.button {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
   background: #E0A06B ;
-  color: #000;
+  color: #222;
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
 }
 
-.btn-light {
+.button-light {
   background: transparent;
   color: #fff;
 }
-.btn:hover {
+.button:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #fff;
   transition: 0.3s;
