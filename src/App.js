@@ -1,25 +1,25 @@
 
-import './App.css';
+import React from 'react';
+import "./index.css";
+import Home from './routes/Home'
+import About from './routes/About'
+import Projects from './routes/Projects'
+import Contact from './routes/Contact'
+
 import 'bootstrap/dist/css/bootstrap.min.css';
-import HomePage from './components/HomePage';
-import Header from './components/Header';
-import Contact from './components/ContactPage';
-import Project from './components/Project';
-import ProjectPage from './components/ProjectPage';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="container">
-    
-      <Header />
-        
-        <HomePage />
-        <ProjectPage />
-        <Project />
-        <Contact />
-
-    </div>
-  );
+    <>
+        <Routes>
+            <Route path='/' index element={<Home />} />
+            <Route path='/about' element={<About />} />
+            <Route path='/projects'  element={<Projects />} />
+            <Route path='/contact' element={<Contact />} />
+        </Routes>
+    </>
+  )
 }
 
 export default App;
