@@ -44,7 +44,7 @@ function ContactPage() {
           <a href={linkedin}><FaLinkedin /> LinkedIn</a>{' '}
           <a href={`mailto:${email}`}><FaEnvelope /> Email</a>{' '}
           <a href={`tel:${phone}`}><FaPhone /> Phone</a>{' '}
-          <a href={Resume}><FaFilePdf /> CV (PDF)</a>{' '}
+          <a href={Resume}><FaFilePdf /> CV </a>{' '}
         </div>
         </Col>
       </Row>
