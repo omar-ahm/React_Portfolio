@@ -45,3 +45,6 @@ object-fit: cover;
 .content .button {
     margin: 1rem 0,2rem;
 }
+#sub-title {
+    padding-bottom: 30px;
+}

@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './HomePageStyle.css';
 import HeroImg from '../components/assets/hero.jpg';
-import { Link } from 'react-router-dom';
+
 
 const HomePage = () => {
   return (
@@ -11,12 +12,12 @@ const HomePage = () => {
             <img className='hero-img' src={HeroImg} alt='HeroImg' />
         </div>
         <div className='content'>
-            <p>Hi, I'M A FREELANCE</p>
-            <h1>React Developer.</h1>
+            <h1>&#123; . . . .&#125;</h1>
+            <h2 id='sub-title'>Front-End Developer.</h2>
             <div>
-                <Link to='/project'
+                <Link to='/Projects'
                 className='button'>Projects</Link>
-                <Link to='/project'
+                <Link to='/Contact'
                 className='button button-light'>Contact</Link>
             </div>
 
