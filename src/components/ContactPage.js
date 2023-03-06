@@ -3,6 +3,8 @@ import { Form, Button } from 'react-bootstrap';
 
 function ContactPage() {
   return (
+    <div className="contact-me">
+        <h2 className="contact-title">Get In Touch</h2>
     <Form className="contact-form">
       <Form.Group controlId="formBasicEmail">
         <Form.Label>Email address</Form.Label>
@@ -22,10 +24,11 @@ function ContactPage() {
         <Form.Control as="textarea" rows={3} placeholder="Enter message" />
       </Form.Group>
 
-      <Button variant="primary" type="submit">
+      <Button className="submit-btn" variant="primary" type="submit">
         Submit
       </Button>
     </Form>
+    </div>
   );
 }
 
