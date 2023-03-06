@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.dea02f42.css",
-    "main.js": "/React-Portfolio/static/js/main.7d60081c.js",
+    "main.js": "/React-Portfolio/static/js/main.81cf4fe1.js",
     "static/media/PFP-black.png": "/React-Portfolio/static/media/PFP-black.4134c95181c6a139de22.png",
     "static/media/hero.jpg": "/React-Portfolio/static/media/hero.3b585448a5b7c29499fb.jpg",
     "static/media/Eco-Travel-App.png": "/React-Portfolio/static/media/Eco-Travel-App.9c12582f3b41653f4195.png",
@@ -14,10 +14,10 @@
     "static/media/Omar_Ahmad_Resume.pdf": "/React-Portfolio/static/media/Omar_Ahmad_Resume.b830472b14a8c8726537.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.dea02f42.css.map": "/React-Portfolio/static/css/main.dea02f42.css.map",
-    "main.7d60081c.js.map": "/React-Portfolio/static/js/main.7d60081c.js.map"
+    "main.81cf4fe1.js.map": "/React-Portfolio/static/js/main.81cf4fe1.js.map"
   },
   "entrypoints": [
     "static/css/main.dea02f42.css",
-    "static/js/main.7d60081c.js"
+    "static/js/main.81cf4fe1.js"
   ]
 }
