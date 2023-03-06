@@ -1,21 +1,14 @@
 import { Container, Row, Col, Image, ProgressBar } from 'react-bootstrap';
-import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaFilePdf } from 'react-icons/fa';
 import ProfilePic from '../components/assets/PFP-black.png';
-import Resume from '../components/assets/Omar_Ahmad_Resume.pdf'
 import ProfileImage from '../components/assets/macbook-Img.jpg';
 
 
 function Portfolio() {
   const html = 90;
   const css = 80;
-  const javascript = 70;
-  const bootstrap = 85;
+  const javascript = 65;
+  const bootstrap = 95;
   const react = 75;
-  const github = 'https://github.com/omar-ahm';
-  const linkedin = 'https://www.linkedin.com/in/omar-ahm/';
-  const email = 'omar-ahm@outlook.com';
-  const phone = '+44 555 56 55 56';
-//   const cv = '/path/to/cv.pdf';
 
   return (
     <Container>
@@ -28,6 +21,9 @@ function Portfolio() {
           <Image className='profile-image' src={ProfileImage} style={{width:'100%', height:'auto', borderRadius:30, objectFit:'cover'}} fluid />
         </Col>
       </Row>
+      <h5>A self procalimed introvert who is highly motivated, organized, and technical driven with sound business acumen and the ability to thrive in a challenging, fast-paced environments.
+
+I am passionate about technology and innovation and maintain a "continuous education" mindset when it comes to self-learning. I have strong process orientation, planning and project management skills and am able to build, maintain and grow successful working relationships with both internal and external stakeholders effectively and confidently.</h5>
       <Row>
         <Col>
           <h2 className='skills-section'>Skills</h2>
@@ -38,17 +34,7 @@ function Portfolio() {
           <ProgressBar className='progressBar' now={react} label={`React ${react}%`} animated striped variant="info" />
         </Col>
       </Row>
-      <Row>
-        <Col>
-        <div className='social-icons' d-flex justify-content-center>
-          <a href={github}><FaGithub /> GitHub</a>{' '}
-          <a href={linkedin}><FaLinkedin /> LinkedIn</a>{' '}
-          <a href={`mailto:${email}`}><FaEnvelope /> Email</a>{' '}
-          <a href={`tel:${phone}`}><FaPhone /> Phone</a>{' '}
-          <a href={Resume}><FaFilePdf /> CV (PDF)</a>{' '}
-        </div>
-        </Col>
-      </Row>
+      
     </Container>
   );
 }

@@ -1,5 +1,13 @@
 import React from "react";
-import { Form, Button } from 'react-bootstrap';
+import { Form, Button, Row, Col } from 'react-bootstrap';
+import Resume from '../components/assets/Omar_Ahmad_Resume.pdf'
+import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaFilePdf } from 'react-icons/fa';
+
+
+const github = 'https://github.com/omar-ahm';
+const linkedin = 'https://www.linkedin.com/in/omar-ahm/';
+const email = 'omar-ahm@outlook.com';
+const phone = '+44 555 56 55 56';
 
 function ContactPage() {
   return (
@@ -28,6 +36,18 @@ function ContactPage() {
         Submit
       </Button>
     </Form>
+    <Row>
+    
+        <Col>
+        <div className='social-icons' d-flex justify-content-center>
+          <a href={github}><FaGithub /> GitHub</a>{' '}
+          <a href={linkedin}><FaLinkedin /> LinkedIn</a>{' '}
+          <a href={`mailto:${email}`}><FaEnvelope /> Email</a>{' '}
+          <a href={`tel:${phone}`}><FaPhone /> Phone</a>{' '}
+          <a href={Resume}><FaFilePdf /> CV (PDF)</a>{' '}
+        </div>
+        </Col>
+      </Row>
     </div>
   );
 }

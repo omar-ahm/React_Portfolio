@@ -16,6 +16,7 @@ h1,
 h2, 
 h3, 
 h4, 
+h5,
 p, 
 a {
   color: #fff !important;
@@ -80,7 +81,7 @@ ul {
 }
 .submit-btn {
   margin-top: 30px;
-  margin-bottom: 300px;
+  margin-bottom: 50px;
 }
 .profile-pic {
   width: 100%;
@@ -90,20 +91,26 @@ ul {
   /* background-size: cover; */
 }
 .progressBar {
-  margin: 20px;
+  margin: 30px;
+  
+  
 
 }
 .social-icons {
-display:inline-block;
+display:flex;
  justify-content: space-evenly;
  align-items:center;
  padding: 20px;
  margin: 20px;
  font-size: 20px;
-
 }
+
 .social-icons a {
   padding: 20px;
+  border: #fff dashed 0.5px;
+}
+.social-icons svg {
+  margin-right: 15px;
 }
 .top-section {
   display: flex;
