@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.dea02f42.css",
-    "main.js": "/static/js/main.966fdc31.js",
-    "static/media/PFP-black.png": "/static/media/PFP-black.4134c95181c6a139de22.png",
-    "static/media/hero.jpg": "/static/media/hero.3b585448a5b7c29499fb.jpg",
-    "static/media/Eco-Travel-App.png": "/static/media/Eco-Travel-App.9c12582f3b41653f4195.png",
-    "static/media/macbook-Img.jpg": "/static/media/macbook-Img.6b9eec57704d70c5f051.jpg",
-    "static/media/Team-Generator.png": "/static/media/Team-Generator.e9647c59364beaf42d98.png",
-    "static/media/code-quiz.png": "/static/media/code-quiz.38c2e865c6c3e2fd4dd1.png",
-    "static/media/readme-generator.png": "/static/media/readme-generator.71882d1258f493e2aa5f.png",
-    "static/media/daily-planner.png": "/static/media/daily-planner.fbf743a4744424c55876.png",
-    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.2e62ed7bc5a89cfc6203.png",
-    "static/media/Omar_Ahmad_Resume.pdf": "/static/media/Omar_Ahmad_Resume.b830472b14a8c8726537.pdf",
-    "index.html": "/index.html",
-    "main.dea02f42.css.map": "/static/css/main.dea02f42.css.map",
-    "main.966fdc31.js.map": "/static/js/main.966fdc31.js.map"
+    "main.css": "/React-Portfolio/static/css/main.dea02f42.css",
+    "main.js": "/React-Portfolio/static/js/main.7d60081c.js",
+    "static/media/PFP-black.png": "/React-Portfolio/static/media/PFP-black.4134c95181c6a139de22.png",
+    "static/media/hero.jpg": "/React-Portfolio/static/media/hero.3b585448a5b7c29499fb.jpg",
+    "static/media/Eco-Travel-App.png": "/React-Portfolio/static/media/Eco-Travel-App.9c12582f3b41653f4195.png",
+    "static/media/macbook-Img.jpg": "/React-Portfolio/static/media/macbook-Img.6b9eec57704d70c5f051.jpg",
+    "static/media/Team-Generator.png": "/React-Portfolio/static/media/Team-Generator.e9647c59364beaf42d98.png",
+    "static/media/code-quiz.png": "/React-Portfolio/static/media/code-quiz.38c2e865c6c3e2fd4dd1.png",
+    "static/media/readme-generator.png": "/React-Portfolio/static/media/readme-generator.71882d1258f493e2aa5f.png",
+    "static/media/daily-planner.png": "/React-Portfolio/static/media/daily-planner.fbf743a4744424c55876.png",
+    "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.2e62ed7bc5a89cfc6203.png",
+    "static/media/Omar_Ahmad_Resume.pdf": "/React-Portfolio/static/media/Omar_Ahmad_Resume.b830472b14a8c8726537.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.dea02f42.css.map": "/React-Portfolio/static/css/main.dea02f42.css.map",
+    "main.7d60081c.js.map": "/React-Portfolio/static/js/main.7d60081c.js.map"
   },
   "entrypoints": [
     "static/css/main.dea02f42.css",
-    "static/js/main.966fdc31.js"
+    "static/js/main.7d60081c.js"
   ]
 }
