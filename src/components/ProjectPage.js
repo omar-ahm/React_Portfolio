@@ -22,7 +22,9 @@ function ProjectPage() {
               <Card.Text >
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/Eco-Travel-Planner">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/Eco-Travel-Planner">View Repo</Button>
+              <hr />
+              <Button style={{background:'#43A075'}} variant="primary" href="https://omar-ahm.github.io/Eco-Travel-Planner/">View Deployed</Button>
             </Card.Body>
           </Card>
         </Col>
@@ -35,7 +37,7 @@ function ProjectPage() {
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/WK12-Team-Profile-Generator">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/WK12-Team-Profile-Generator">View Repo</Button>
             </Card.Body>
           </Card>
         </Col>
@@ -48,7 +50,7 @@ function ProjectPage() {
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/WK11-Professional-README-Generator">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/WK11-Professional-README-Generator">View Repo</Button>
             </Card.Body>
           </Card>
         </Col>
@@ -61,7 +63,9 @@ function ProjectPage() {
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/WK8-Weather-Dashboard">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/WK8-Weather-Dashboard">View Repo</Button>
+              <hr />
+              <Button style={{background:'#43A075'}} variant="primary" href="https://omar-ahm.github.io/WK8-Weather-Dashboard/">View Deployed</Button>
             </Card.Body>
           </Card>
         </Col>
@@ -74,7 +78,9 @@ function ProjectPage() {
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/WK7-Daily_Planner_App">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/WK7-Daily_Planner_App">View Repo</Button>
+              <hr />
+              <Button style={{background:'#43A075'}} variant="primary" href="https://omar-ahm.github.io/WK7-Daily_Planner_App/">View Deployed</Button>
             </Card.Body>
           </Card>
         </Col>
@@ -87,7 +93,9 @@ function ProjectPage() {
               <Card.Text>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in bibendum ex. Duis vitae velit eleifend, aliquet ex id, eleifend purus.
               </Card.Text>
-              <Button variant="primary" href="https://github.com/omar-ahm/WK6_Code_Quiz_Challenge">View Project</Button>
+              <Button style={{background:'#FE9E73'}} variant="primary" href="https://github.com/omar-ahm/WK6_Code_Quiz_Challenge">View Repo</Button>
+              <hr />
+              <Button style={{background:'#43A075'}} variant="primary" href="https://omar-ahm.github.io/WK6_Code_Quiz_Challenge/">View Deployed</Button>
             </Card.Body>
           </Card>
         </Col>
