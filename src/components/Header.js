@@ -22,13 +22,13 @@ const Header = () => {
   return (
     <div className={color ? "header header-bg" :
     "header"}>
-        <Link to='/'>
+        <Link to='/React_Portfolio'>
             <h1 id='title'>Omar Ahmad</h1>
         </Link>
         <ul className={click ? "nav-menu active" : 
         "nav-menu"}>
             <li>
-                <Link to='/'>Home</Link>
+                <Link to='/React_Portfolio'>Home</Link>
             </li>
             <li>
                 <Link to='/about'>About</Link>
