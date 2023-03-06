@@ -1,6 +1,6 @@
 import { Container, Row, Col, Image, ProgressBar } from 'react-bootstrap';
-import ProfilePic from '../components/assets/PFP-black.png';
-import ProfileImage from '../components/assets/macbook-Img.jpg';
+import ProfilePic from '../assets/PFP-black.png';
+import ProfileImage from '../assets/macbook-Img.jpg';
 
 
 function Portfolio() {

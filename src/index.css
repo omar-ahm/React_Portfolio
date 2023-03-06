@@ -47,16 +47,25 @@ ul {
   color: #fff;
   transition: 0.3s;
 }
+
 .card {
+  margin: 10px;
   height: 100% !important;
 }
-.card-text {
-  color: #000 !important;
+.col-md-4 {
+  margin-bottom: 20px;
 }
-.card-img {
+.card-text {
+  color: #000 !important;;
+}
+.card-img-top {
   height: 100%;
   border-bottom: #000 1px solid;
   box-shadow: #000 2px;
+}
+
+.card-body {
+  height: 100%;
 }
 .footer {
   position: fixed;

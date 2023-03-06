@@ -1,0 +1,42 @@
+[
+    {
+      "imageSrc": "./assets/Eco-Travel-App.png",
+      "title": "Eco Travel App - Project",
+      "description": "Application that helps travelers find sustainable travel options, calculates the estimated carbon emissions generated from their travel itinerary and shows sustainable travel options such as hike and bike trails. It uses populate API's to pull real-time data into the user's input.",
+      "repoLink": "https://github.com/omar-ahm/Eco-Travel-Planner",
+      "deployedLink": "https://omar-ahm.github.io/Eco-Travel-Planner/"
+    },
+    {
+      "imageSrc": "./assets/Team-Generator.png",
+      "title": "Team Profile Generator",
+      "description": "The task was to take the given starter code and convert it into a working Node.js command-line application. This application will take in information about employees on a software engineering team, then generate an HTML webpage that displays summaries for each person.",
+      "repoLink": "https://github.com/omar-ahm/WK12-Team-Profile-Generator"
+    },
+    {
+      "imageSrc": "./assets/readme-generator.png",
+      "title": "README Generator",
+      "description": "This project is built for users to dynamically generate a README.md file for future GitHub projects, it is designed to take the leg work out of having to create a README.md file from scratch everytime and prompts the user step-by step.",
+      "repoLink": "https://github.com/omar-ahm/WK11-Professional-README-Generator"
+    },
+    {
+      "imageSrc": "./assets/weather-dashboard.png",
+      "title": "Weather Dashboard",
+      "description": "When a user searches for a city they are presented with current and future conditions for that city and that city is added to the search history",
+      "repoLink": "https://github.com/omar-ahm/WK8-Weather-Dashboard",
+      "deployedLink": "https://omar-ahm.github.io/WK8-Weather-Dashboard/"
+    },
+    {
+      "imageSrc": "./assets/daily-planner.png",
+      "title": "Daily Planner",
+      "description": "A daily planner app for users to track their daily schedules, it allows the user to input tasks and track when they are upcoming. It saves the events in local storage",
+      "repoLink": "https://github.com/omar-ahm/WK7-Daily_Planner_App",
+      "deployedLink": "https://omar-ahm.github.io/WK7-Daily_Planner_App/"
+    },
+    {
+      "imageSrc": "./assets/code-quiz.png",
+      "title": "Code Quiz",
+      "description": "Code quiz that users can take to test their knowlege on Javascript, It present a series of questions and multiple choice answers, Countdown timer begins when the quiz starts",
+      "repoLink": "https://github.com/omar-ahm/WK4-Code-Quiz",
+      "deployedLink": "https://omar-ahm.github.io/WK6_Code_Quiz_Challenge/"
+    }
+  ]
