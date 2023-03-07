@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.bd5e0051.css",
-    "main.js": "/React_Portfolio/static/js/main.f8fac18d.js",
+    "main.css": "/React_Portfolio/static/css/main.3da83644.css",
+    "main.js": "/React_Portfolio/static/js/main.df600aa3.js",
     "static/media/PFP-black.png": "/React_Portfolio/static/media/PFP-black.4134c95181c6a139de22.png",
     "static/media/hero.jpg": "/React_Portfolio/static/media/hero.3b585448a5b7c29499fb.jpg",
     "static/media/Eco-Travel-App.png": "/React_Portfolio/static/media/Eco-Travel-App.9c12582f3b41653f4195.png",
@@ -13,11 +13,11 @@
     "static/media/weather-dashboard.png": "/React_Portfolio/static/media/weather-dashboard.2e62ed7bc5a89cfc6203.png",
     "static/media/Omar_Ahmad_Resume.pdf": "/React_Portfolio/static/media/Omar_Ahmad_Resume.b830472b14a8c8726537.pdf",
     "index.html": "/React_Portfolio/index.html",
-    "main.bd5e0051.css.map": "/React_Portfolio/static/css/main.bd5e0051.css.map",
-    "main.f8fac18d.js.map": "/React_Portfolio/static/js/main.f8fac18d.js.map"
+    "main.3da83644.css.map": "/React_Portfolio/static/css/main.3da83644.css.map",
+    "main.df600aa3.js.map": "/React_Portfolio/static/js/main.df600aa3.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd5e0051.css",
-    "static/js/main.f8fac18d.js"
+    "static/css/main.3da83644.css",
+    "static/js/main.df600aa3.js"
   ]
 }
