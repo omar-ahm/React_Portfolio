@@ -12,31 +12,32 @@ The goal of the project was to create a portfolio website that uses components f
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
+- [Screenshot](#Deployment)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Deployment
 
+![Alt text](src/assets/Screenshot.png)
 
+Link to deployed site: https://omar-ahm.github.io/React_Portfolio/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The use case of this project is to demonstrate the ability to build a web application utilising relevant experience gained throughout the week. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Demonstrate previoously built projects through the course of the bootcamp
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Use skills gains to implement into the application using React JS
 
 ## Credits
 
+- gh-pages repo link provided in class 
+- React useState documentation - https://beta.reactjs.org/reference/react/useState
+- React bootstrap - https://react-bootstrap.github.io/layout/grid/
+- Get Bootstrap - https://getbootstrap.com/docs/4.0/components/card/#header-and-footer
 
 ## License
 
-This project uses the MIT licence, please refer to the licence section for more details.
+- This project uses the MIT licence, please refer to the licence section for more details.
 ---
