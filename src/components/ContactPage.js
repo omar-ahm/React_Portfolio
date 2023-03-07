@@ -1,6 +1,6 @@
 import React from "react";
 import { Form, Button, Row, Col } from 'react-bootstrap';
-import Resume from '../assets/Omar_Ahmad_Resume.pdf'
+import Resume from '../assets/resume.pdf'
 import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaFilePdf } from 'react-icons/fa';
 
 
